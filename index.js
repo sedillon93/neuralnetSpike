@@ -1,0 +1,1 @@
+const synaptic = require('synaptic');
