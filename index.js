@@ -1,4 +1,3 @@
-// const synaptic = require('synaptic');
 const {Layer, Network} = require('synaptic');
 
 let inputLayer = new Layer(2);
